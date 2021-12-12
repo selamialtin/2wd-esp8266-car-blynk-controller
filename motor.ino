@@ -2,8 +2,8 @@
 #define BLYNK_PRINT Serial
 // replace with blynk device settings from device screen
 // see https://docs.blynk.io/en/getting-started/what-do-i-need-to-blynk/quickstart-device-code-overview
-#define BLYNK_TEMPLATE_ID "TMPLW-_34Uhl"
-#define BLYNK_DEVICE_NAME "araba 2"
+#define BLYNK_TEMPLATE_ID "TMPLWxxxxxxxxxx"
+#define BLYNK_DEVICE_NAME "devicex"
 #define BLYNK_AUTH_TOKEN "xxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
